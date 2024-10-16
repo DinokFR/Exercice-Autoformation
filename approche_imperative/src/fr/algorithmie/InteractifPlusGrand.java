@@ -6,7 +6,7 @@ public class InteractifPlusGrand {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in) ;
-        System.out.println("Veuillez entrez un nombre 10 nombres");
+        System.out.println("Veuillez entrez un 10 nombres");
         int max = scanner.nextInt() ;
 
         for (int i = 1; i < 10; i++){
